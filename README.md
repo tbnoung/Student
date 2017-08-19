@@ -1,5 +1,5 @@
 #include <stdio.h>
 main( )
 {
-printf("hello, world\n");
+printf("hello, นาย ธีรศักดิ์ บัวไขย์\n");
 }
